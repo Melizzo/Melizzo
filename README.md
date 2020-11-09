@@ -7,7 +7,13 @@
   - :zap: Fun fact: I lived in New Zealand for a year - Kia Ora!
 
 ## Connect with me: 
-[<img align="left" alt="twitter-logo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />] [https://twitter.com/Melizzo_]
-[<img align="left" alt="linkedIn-logo | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [https://www.linkedin.com/in/melissavankempen/]
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br />
+
+
+[twitter]: https://twitter.com/Melizzo_
+[linkedin]: https://www.linkedin.com/in/melissavankempen/
