@@ -4,6 +4,7 @@
   - :fire: I'm currently looking for my first role as a Developer! 
   - :school: Proud graduate from Turing School of Software & Design
   - :seedling: Chose developer as a career to always be learning something new! 
+  - 🥅 2020 Goals: Contribute more to Open Source projects
   - :zap: Fun fact: I lived in New Zealand for a year - Kia Ora!
 
 ## Connect with me: 
@@ -13,6 +14,10 @@
 
 
 <br />
+
+### Languages and Tools:
+
+
 
 
 [twitter]: https://twitter.com/Melizzo_
