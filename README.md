@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.melizzo.vercel.app/api/spotify)](https://open.spotify.com/user/melizzo)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/melizzo)
 
 
 [twitter]: https://twitter.com/Melizzo_
