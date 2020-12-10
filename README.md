@@ -3,8 +3,8 @@
 ## I'm a Front End Engineer, Auntie, dog mom, and nature lover.  
   - :fire: I'm currently looking for my first role as a Developer! 
   - :school: Proud graduate from Turing School of Software & Design
-  - :seedling: Chose developer as a career to always be learning something new! 
-  - 🥅 2020 Goals: Contribute more to Open Source projects
+  - :seedling: I became a developer as I always want be learning something new! 
+  - 🥅 2021 Goals: Contribute more to Open Source projects
   - :zap: Fun fact: I lived in New Zealand for a year - Kia Ora!
 
 ## Connect with me: 
