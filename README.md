@@ -1,11 +1,11 @@
 ### Hi!  I'm Melissa - aka Melizzo :wave:
 
 ## I'm a Front End Engineer, Auntie, dog mom, and nature lover.  
-  - :fire: I'm currently looking for my first role as a Developer! 
+  - :fire: Learning Angular/TypeScript
   - :school: Proud graduate from Turing School of Software & Design
   - :seedling: React & Vue are my jam. 
   - :white_check_mark: I have code in production!  
-  - 🥅 2021 Goals: Contribute more to Open Source projects
+  - 🥅 2022 Goals: Complete a hut trip. 
   - :zap: Fun fact: I lived in New Zealand for a year - Kia Ora!
 
 ## Connect with me: 
